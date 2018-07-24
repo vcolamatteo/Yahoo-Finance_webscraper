@@ -1,7 +1,8 @@
 # Yahoo-Finance_webscraper
 
 
-<h4><center> An ultimate web scraper for <i>Yahoo!Finance</i> historical stock series...</center></h4>
+<h5>An ultimate web scraper for <i>Yahoo!Finance</i> historical stock series...</h5>
+<br>
 <img src="http://vcolamatteo.altervista.org/wp-content/uploads/2018/07/yahoo_plus_python.png">
 
 
