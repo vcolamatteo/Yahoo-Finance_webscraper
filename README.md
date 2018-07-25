@@ -50,4 +50,4 @@ After running, program creates a folder with all the stocks files, as in the exa
 
 <br><br>
 <b><h2>Other Info</h2> </b> 
-<p>Code entirely written in <b>Python 3.5.1</b>. Feel fre to contact me at: <b>v.colamatteo@yahoo.it</b></p>.
+<p>Code entirely written in <b>Python 3.5.1</b>. Feel free to contact me at: <b>v.colamatteo@yahoo.it</b></p>.
