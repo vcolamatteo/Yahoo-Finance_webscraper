@@ -22,7 +22,7 @@ date_2=(addYears(date_1, -3))
 for downloading a lot of stocks titles you firstly have to put your hands on it for a review, keeping always in mind there's a <b>bottleneck</b> 
 with your speed network...</p>
 
-<br>
+<br><br>
 <b><h2>Main purpose</h2> </b> 
 <p align="justify">This code has been posted just for trying you to solve any troubles about querying <i>Yahoo!Finance</i> servers and so it clearly needs to be 
 adapted to fit your activity at best. So, feel free to change this few lines of code and reuse it as just as you think it is better...<br>
