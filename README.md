@@ -1,4 +1,4 @@
-# Yahoo-Finance_webscraper
+# Yahoo!Finance webscraper
 
 
 <h5>An ultimate web scraping solution for <i>Yahoo!Finance</i> historical stocks gathering...</h5>
