@@ -30,5 +30,24 @@ At the end (but surely not at the least!) I would be grateful to you if you'd sh
 
 
 <br><br>
+<b><h2>Result</h2> </b> 
+
+<p align="justify">
+For running just digit the execution command for any <i>Python</i> script in a <i>cmd</i>:
+  <pre>
+python sec.py
+</pre>
+
+After running, program creates a folder with all the stocks files, as in the example:
+<br><br>
+<p align="center"><img src="http://vcolamatteo.altervista.org/wp-content/uploads/2018/07/cmd.png" ></p>
+</p>
+<br>
+<p>A single file result in detail:</p>
+ <br>
+<p align="center"><img src="http://vcolamatteo.altervista.org/wp-content/uploads/2018/07/YahooFinance_scraped.png"  width="500" height="400"></p>
+<br>
+
+<br><br>
 <b><h2>Other Info</h2> </b> 
 <p>Code entirely written in <b>Python 3.5.1</b>. Feel fre to contact me at: <b>v.colamatteo@yahoo.it</b></p>.
