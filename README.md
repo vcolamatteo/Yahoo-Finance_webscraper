@@ -13,7 +13,7 @@ This code, being able to go over the limitations, can scrape over the web site a
 <b><h2>Be careful</h2> </b> 
 <p align="justify"><b>Keep in Mind </b>this is just a demo version of the code, so it has no running options and, by deafult, it is able to download stocks declared in <i>sec.py</i> file (line <b>6</b>).</p>
 <pre>titles=["CORN", "UGA", "NDAQ", "FB", "RDS-A"]</pre> 
-<p align="justify">for each title the time window considered is <b>3</b> years, you could change it at line <b>78</b> of <i>functions.py</i> file:</p>
+<p align="justify">For each title the time window considered is <b>3</b> years, you can easly change it through the line <b>78</b> of <i>functions.py</i> file:</p>
 <pre>
 date_2=(addYears(date_1, -3))
 </pre>
