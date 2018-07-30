@@ -11,8 +11,7 @@ This code, being able to go over the limitations, can scrape over the web site a
 <i>.dat</i> file for each needed title) all the avaible info about stocks (<i>Date, Open, High, Low, Close, Adjusted Close, Volume</i>).</h4></p>
 <br><br><br>
 <b><h2>Be careful</h2> </b> 
-<b>Keep in Mind </b>this is just a demo version of the code, so it has no running options and, by deafult, it is able to download
-stocks present in in <i>sec.py</i> file (line <b>6</b>).
+<p align="justify"><b>Keep in Mind </b>this is just a demo version of the code, so it has no running options and, by deafult, it is able to download stocks present in in <i>sec.py</i> file (line <b>6</b>).</p>
 <pre>titles=["CORN", "UGA", "NDAQ", "FB", "RDS-A"]</pre> 
 Then each title the time window considered is <b>3</b> years, and you could change it at line <b>78</b> of <i>functions.py</i> file:
 <pre>
