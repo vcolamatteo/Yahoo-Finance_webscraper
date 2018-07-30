@@ -3,7 +3,7 @@
 
 <h5>An ultimate web scraping solution for <i>Yahoo!Finance</i> historical stocks gathering...</h5>
 <br>
-<img src="http://vcolamatteo.altervista.org/wp-content/uploads/2018/07/Yahoo.png">
+<img src="http://vcolamatteo.altervista.org/wp-content/uploads/2018/07/yahoo_plus_python.png">
 
 
 <br><p><h4 align="justify">From about September 2017 Yahoo! stopped traditional ways of doing automatic queries for getting historical stocks series.
@@ -13,7 +13,7 @@ This code, being able to go over the limitations, can scrape over the web site a
 <b><h2>Be careful</h2> </b> 
 <p align="justify"><b>Keep in Mind </b>this is just a demo version of the code, so it has no running options and, by deafult, it is able to download stocks declared in <i>sec.py</i> file (line <b>6</b>).</p>
 <pre>titles=["CORN", "UGA", "NDAQ", "FB", "RDS-A"]</pre> 
-Then each title the time window considered is <b>3</b> years, and you could change it at line <b>78</b> of <i>functions.py</i> file:
+<p align="justify">for each title the time window considered is <b>3</b> years, you could change it at line <b>78</b> of <i>functions.py</i> file:</p>
 <pre>
 date_2=(addYears(date_1, -3))
 </pre>
